@@ -2,7 +2,7 @@
 
 # JackTasks
 
-Uma aplicação completa de gerenciamento de tarefas com backend robusto e frontend moderno.
+Uma aplicação completa de gerenciamento de tarefas.
 
 ![JackTasks](./readme-img.png)
 
