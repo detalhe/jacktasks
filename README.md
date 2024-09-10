@@ -8,7 +8,7 @@ Uma aplicação completa de gerenciamento de tarefas com backend robusto e front
 
 ## Visão Geral
 
-JackTasks é uma aplicação full-stack para gerenciamento de tarefas. O projeto é dividido em duas partes principais:
+O projeto é dividido em duas partes principais:
 
 - [Backend](./backend/README.md): API construída com Node.js, Express e MySQL.
 - [Frontend](./frontend/README.md): UI desenvolvida com React e TypeScript.
